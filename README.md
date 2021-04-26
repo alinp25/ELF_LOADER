@@ -42,3 +42,13 @@ This should generate the `so_exec` and `so_test_prog` used for the test:
 ```
 LD_LIBRARY_PATH=. ./so_exec so_test_prog
 ```
+
+## Repository
+
+Will become public after grading the homework
+[https://github.com/alinp25/ELF_LOADER
+
+## References
+Labs + Courses ACS UPB SO 
+https://dtrugman.medium.com/elf-loaders-libraries-and-executables-on-linux-e5cfce318f94
+https://community.mellanox.com/s/article/understanding-on-demand-paging--odp-x
